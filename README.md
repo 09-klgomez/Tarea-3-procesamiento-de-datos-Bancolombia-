@@ -22,7 +22,7 @@ Estructura del Repositorio
 Tecnologías Utilizadas
 
 | Tecnología | Versión | Propósito |
-|------------|---------|-----------|
+|------------|---------|-----------| 
 | **Python** | 3.x | Lenguaje de programación |
 | **Apache Kafka** | 2.13-3.7.1 | Broker de mensajes en tiempo real |
 | **Apache Spark** | 3.5.3 | Procesamiento distribuido |
